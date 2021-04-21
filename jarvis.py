@@ -13,6 +13,8 @@ voices = engine.getProperty('voices')
 engine.setProperty('voices', voices[0].id)
 
 
+# for speak function 
+
 def speak(audio):
     engine.say(audio)
     engine.runAndWait()
