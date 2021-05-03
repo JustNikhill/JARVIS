@@ -88,6 +88,9 @@ if __name__ == '__main__':
 
         elif 'open stackoverflow' in query:                              # Code for Stackoverflow
             webbrowser.open("stackoverflow.com")
+        
+        elif 'open github' in query:
+            webbrowser.open("https://github.com/JustNikhill")           #code for adding Github
 
         elif 'play music' in query:                                      #code for Songs 
             music_dir = 'E:\\whats app audio'                            # location of musics
