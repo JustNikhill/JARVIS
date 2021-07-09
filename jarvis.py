@@ -101,7 +101,14 @@ if __name__ == '__main__':
         elif 'the time' in query:                                       # For time 
             srtTime = datetime.datetime.now().strftime("%H:%M:%S")
             speak(f"sir, the time is {srtTime}")
-
+        
+        elif 'the date' in query:                                       # For date 
+            srtDate = datetime.datetime.now().strftime("%D")
+            speak(f"sir, today's date is {srtDate}")
+            
+        elif 'who are you' in query:                                    # info about jarvis
+            speak(f"I am JARVIS, Just A Rather Very Intelligent System. By the way I am created by Nikhil")
+        
         elif 'email to nikhil' in query:                               # For sending the Email
             try:
                 speak("What should I say?")
