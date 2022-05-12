@@ -15,13 +15,13 @@
 
 #### WHAT JARVIS CAN DO?  
 
-- He can send EMAIL by just listing your command 
-- He can give answer of any question through WIKIPEDIA
-- He can open YOUTUBE
-- He can open open GITHUB
-- He can open STACKOVERFLOW
-- He can open MUSIC DIRECTORY OF YOUR DEVICE
-- He can tell DATE AND TIME 
+- It can send EMAIL by just listening your command 
+- It can give answer of any question through WIKIPEDIA
+- It can open YOUTUBE
+- It can open GITHUB
+- It can open STACKOVERFLOW
+- It can open MUSIC DIRECTORY OF YOUR DEVICE
+- It can tell DATE AND TIME 
 
 ### Request  
 
