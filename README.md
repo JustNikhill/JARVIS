@@ -1,7 +1,7 @@
 # JARVIS  
 
- As you guys saw in Iron man marvel series that he has his own personal assistant.  
- So , This is a desktop virtual assistant who listen you're commands and then give output.
+ As you guys saw in the Iron man marvel series that he has his assistant.  
+ So, this is a desktop virtual assistant that listens to your command and then gives output.
   
  ### MODULES 
 - import pyttsx3
