@@ -4,24 +4,21 @@
  So, this is a desktop virtual assistant that listens to your command and then gives output.
   
  ### MODULES 
-- import pyttsx3
+- import pyttsx3  #(converting text-to-speech)
 - import datetime
-- import speech_recognition as sr
-- import wikipedia
+- import speech_recognition as sr   # (allow machine to understand human language) 
+- import wikipedia 
 - import webbrowser
 - import os
-- import smtplib
+- import smtplib  # for sending mails  
+
 
 
 #### WHAT JARVIS CAN DO?  
 
 - It can send EMAIL by just listening your command 
 - It can give answer of any question through WIKIPEDIA
-- It can open YOUTUBE
-- It can open GITHUB
-- It can open STACKOVERFLOW
-- It can open MUSIC DIRECTORY OF YOUR DEVICE
-- It can tell DATE AND TIME 
+- It can open YOUTUBE, GITHUB, sTACKOVERFLOW, and  MUSIC DIRECTORY OF YOUR DEVICE
 
 ### Request  
 
